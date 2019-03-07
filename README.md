@@ -1,1 +1,3 @@
 # Assignment
+
+mvn test
